@@ -509,7 +509,8 @@ h6 {
   }
   svg {
     top: 200px;
-    height: 400px;
+    height: 10rem;
+    width: 100%;
   }
   .end {
     justify-content: flex-start;
