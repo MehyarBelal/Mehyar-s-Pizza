@@ -1,5 +1,7 @@
-# Mehyar-s-Pizza
+# Pioneer-Pizza
 
+<center>     <img src="./favicon-32x32.png" alt="Logo" width="80" height="80">
+</center>
 
 A website I did for my favorite Pizza restruant using **HTML/CSS, Javascript and GSAP.**
 
