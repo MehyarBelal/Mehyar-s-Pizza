@@ -1,6 +1,6 @@
 # Pioneer-Pizza
 
-<center>     <img src="./favicon-16x16.png" alt="Logo" width="80" height="80">
+<center>     <img src="./ffavicon-16x16.png alt="Logo" >
 </center>
 
 A website I did for my favorite Pizza restruant using **HTML/CSS, Javascript and GSAP.**
