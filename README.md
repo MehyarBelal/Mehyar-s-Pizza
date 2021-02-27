@@ -1,5 +1,9 @@
 # Mehyar-s-Pizza
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cbbcac54e936fb201305012dac6ed883d84ccdbe
 A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSAP.**
 
 # Links To My Social Medias
@@ -19,3 +23,9 @@ A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSA
 This project is licensed under the MIT License - see the [LICENSE.md](#) file for details
 
 > Copyright (c) 2021 Mehyar Belal
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> cbbcac54e936fb201305012dac6ed883d84ccdbe
