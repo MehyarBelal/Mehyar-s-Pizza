@@ -20,6 +20,6 @@ A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSA
 This project is licensed under the MIT License - see the [LICENSE.md](#) file for details
 
 > Copyright (c) 2021 Mehyar Belal
-=======
+
 
 
