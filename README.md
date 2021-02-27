@@ -1,6 +1,6 @@
 # Mehyar-s-Pizza
 
-<<<<<<< HEAD
+
 A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSAP.**
 
 # Links To My Social Medias
