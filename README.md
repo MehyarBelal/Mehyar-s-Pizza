@@ -1,7 +1,7 @@
 # Mehyar-s-Pizza
 
 
-A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSAP.**
+A website I did for my favorite Pizza restruant using **HTML/CSS, Javascript and GSAP.**
 
 # Links To My Social Medias
 
@@ -13,7 +13,7 @@ A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSA
 
 - [GSap](https://greensock.com/gsap/)
 
-- [Jquery](https://jquery.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 # License
 
