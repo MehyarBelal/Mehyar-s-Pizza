@@ -21,9 +21,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](#) file fo
 
 > Copyright (c) 2021 Mehyar Belal
 =======
-A website I did for my  favorite Pizza restruant using HTML/CSS, JQuery and GSAP.
 
 
-# Built with 
-
->>>>>>> 6b12635783af0af005f861384abcb1c7433f2f39
