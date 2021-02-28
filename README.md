@@ -1,10 +1,9 @@
-# Mehyar-s-Pizza
+# Pioneer-Pizza
 
-<<<<<<< HEAD
-=======
+<center>     <img src="./favicon-32x32.png" alt="Logo" width="32" height="32" >
+</center>
 
->>>>>>> cbbcac54e936fb201305012dac6ed883d84ccdbe
-A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSAP.**
+A website I did for my favorite Pizza restruant using **HTML/CSS, Javascript and GSAP.**
 
 # Links To My Social Medias
 
@@ -16,16 +15,14 @@ A website I did for my favorite Pizza restruant using **HTML/CSS, JQuery and GSA
 
 - [GSap](https://greensock.com/gsap/)
 
-- [Jquery](https://jquery.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](#) file for details
 
 > Copyright (c) 2021 Mehyar Belal
-<<<<<<< HEAD
-=======
 
 
 
->>>>>>> cbbcac54e936fb201305012dac6ed883d84ccdbe
+
