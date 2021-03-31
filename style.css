@@ -614,6 +614,11 @@ h6 {
 @media only screen and (max-width: 1460px) {
 
   
+  h3{
+    text-align: center !important;
+    margin: 0 !important;
+    margin-bottom: 2.5rem !important;
+  }
   svg {
     display: none;
   }
