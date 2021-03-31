@@ -599,7 +599,8 @@ h4::before {
   h3{
     text-align: center !important;
     margin: 0 !important;
-    margin-bottom: 2.5rem !important;
+    margin-bottom: 3.5rem !important;
+    margin-top: 3.5rem !important;
   }
   svg {
     display: none;
