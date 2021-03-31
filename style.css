@@ -287,9 +287,11 @@ h3 {
   font-size: 1.1em;
 }
 
+
+
 #Info {
   width: 100%;
-  height: 70rem;
+  height: rem;
   background-color: white;
   justify-content: center;
   display: flex;
@@ -609,14 +611,15 @@ h6 {
   }
 }
 
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 1460px) {
+
+  
   svg {
     display: none;
   }
 
   .customer-rating {
-    flex-direction: column;
-    align-items: center;
+    
     width: 100%;
     height: 100%;
     padding: 3em 0px;
@@ -626,3 +629,5 @@ h6 {
     display: none;
   }
 }
+
+
