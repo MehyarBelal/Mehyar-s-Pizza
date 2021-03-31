@@ -464,10 +464,7 @@ h4::before {
     margin: 0 auto;
   }
 
-  #Menu h3 {
-    margin: 0 auto;
-    padding: 10px;
-  }
+
 
   #top {
     width: 100%;
@@ -491,24 +488,13 @@ h4::before {
 
   .rating-card {
     height: 170px;
+    
   }
 
   .rating-card p {
     display: none;
   }
-  svg {
-    top: 200px;
-    height: 10rem;
-    width: 100%;
-  }
-  .end {
-    justify-content: flex-start;
-    flex-direction: column;
-    display: flex;
-    position: absolute;
-    right: 50px;
-    top: 100px;
-  }
+ 
 
   section {
     width: 100%;
@@ -529,9 +515,7 @@ h4::before {
     font-size: 1.2em;
     width: 600px;
   }
-  svg {
-    display: none;
-  }
+  
 
   .grid-menu {
     display: flex;
@@ -540,8 +524,7 @@ h4::before {
     gap: 20px;
   }
 
-  .details {
-  }
+  
 }
 
 @media only screen and (max-width: 375px) {
@@ -566,9 +549,7 @@ h4::before {
   .rating-card {
     width: 150px;
   }
-  .end {
-    margin-right: 200px;
-  }
+ 
 
   .grid-menu {
     display: grid;
@@ -579,18 +560,7 @@ h4::before {
     height: 300px;
   }
 
-  #Menu h3 {
-    text-align: center;
-    margin-left: 55px;
-    margin-bottom: 20px;
-  }
-
-  #Menu {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-left: 50px;
-  }
+ 
 }
 
 @media only screen and (max-width: 1460px) {
