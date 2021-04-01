@@ -8,27 +8,25 @@ body {
   background-color: #d72323;
 }
 
-footer{
+footer {
   font-size: 1.5rem !important;
   padding-top: 3rem;
-  padding-bottom: 3rem;
- background-color:  #2f3640;
- width: 100%;
-  height: 20rem;
-  display:flex;
+  color: white;
+  text-align: center;
+  background-color: #2f3640;
+  width: 100%;
+
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  
 }
 
-footer p{
+footer p {
   text-align: center !important;
 }
 
-
-
-#Info{
+#Info {
   padding: 3rem !important;
 }
 a {
@@ -55,8 +53,6 @@ nav {
 nav ul {
   display: flex;
 }
-
-
 
 li {
   margin-left: 40px;
@@ -307,8 +303,6 @@ h3 {
   font-size: 1.1em;
 }
 
-
-
 #Info {
   width: 100%;
   height: rem;
@@ -374,7 +368,7 @@ h4::before {
 
 #Ratings {
   background-color: #d72323;
-  height: 60vh;
+
   color: white;
   text-align: center;
 }
@@ -382,10 +376,6 @@ h4::before {
 .blob {
   position: absolute;
 }
-
-
-
-
 
 #Ratings h1 {
   font-size: 5em;
@@ -396,6 +386,8 @@ h4::before {
 #Ratings {
   display: flex;
   flex-direction: column;
+  padding-top: 1em;
+  padding-bottom: 0 !important;
 }
 
 .container {
@@ -407,7 +399,7 @@ h4::before {
 .customer-rating {
   display: flex;
   border-radius: 10px;
-  height: 400px;
+  margin-bottom: 5em;
   color: black;
 }
 
@@ -464,8 +456,6 @@ h4::before {
     margin: 0 auto;
   }
 
-
-
   #top {
     width: 100%;
   }
@@ -488,13 +478,11 @@ h4::before {
 
   .rating-card {
     height: 170px;
-    
   }
 
   .rating-card p {
     display: none;
   }
- 
 
   section {
     width: 100%;
@@ -515,7 +503,6 @@ h4::before {
     font-size: 1.2em;
     width: 600px;
   }
-  
 
   .grid-menu {
     display: flex;
@@ -523,8 +510,6 @@ h4::before {
     grid-template-columns: repeat(2, 300px);
     gap: 20px;
   }
-
-  
 }
 
 @media only screen and (max-width: 375px) {
@@ -549,7 +534,6 @@ h4::before {
   .rating-card {
     width: 150px;
   }
- 
 
   .grid-menu {
     display: grid;
@@ -559,14 +543,10 @@ h4::before {
   .card {
     height: 300px;
   }
-
- 
 }
 
 @media only screen and (max-width: 1460px) {
-
-  
-  h3{
+  h3 {
     text-align: center !important;
     margin: 0 !important;
     margin-bottom: 3.5rem !important;
@@ -577,13 +557,8 @@ h4::before {
   }
 
   .customer-rating {
-    
     width: 100%;
     height: 100%;
     padding: 3em 0px;
   }
-
-  
 }
-
-
