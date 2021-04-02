@@ -313,6 +313,15 @@ a:hover {
   width: 100%;
 }
 
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: white;
+  font-weight: 540 !important;
+}
+
 .card {
   background-color: #fff;
   width: 250px;
