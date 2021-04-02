@@ -27,12 +27,14 @@ footer {
   justify-content: center;
   color: #4caf50 !important;
   padding: 0.5em 1.5em;
+  width: 100%;
 }
 .review {
   margin: 0 !important;
   line-height: 2;
   padding: 0 !important;
   font-weight: 400 !important;
+  width: 100%;
 }
 
 .pilled img {
@@ -52,8 +54,9 @@ footer {
   border-radius: 20px;
   height: 3.5rem;
 
-  padding: 0 !important;
-  width: 8em;
+  padding-left: 0 !important;
+  padding-right: 10px;
+  
   margin: 0 !important;
 }
 
@@ -495,9 +498,14 @@ h4::before {
   color: #ffb400;
 }
 
+.card p{
+  width: 100% !important;
+}
+
 @media only screen and (max-width: 768px) {
   #About p {
     font-size: 0.5em;
+    
   }
 
   nav {
@@ -548,17 +556,29 @@ h4::before {
     margin: 0 auto;
   }
 
+  .card p{
+    width: 100%;
+   
+  }
+
   
   #About p {
     font-size: 1.2em;
     width: 600px;
   }
 
+  .card{
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  
+
   .grid-menu {
-    display: flex;
-    justify-content: center;
-    grid-template-columns: repeat(2, 300px);
-    gap: 20px;
+    display: grid;
+width: 100% !important;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center !important;
   }
 }
 
@@ -576,6 +596,7 @@ h4::before {
     text-align: left;
     margin: 5px;
   }
+
 
   .details {
     font-size: 0.7em;
@@ -595,6 +616,7 @@ width: 100% !important;
     grid-template-columns: 1fr;
     justify-content: center !important;
   }
+
 
 
 }
