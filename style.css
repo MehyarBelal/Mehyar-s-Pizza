@@ -587,6 +587,7 @@ h4::before {
 
   .card{
     margin: 0 auto;
+    margin-bottom: 20px;
   }
   .grid-menu {
     display: grid;
