@@ -548,9 +548,7 @@ h4::before {
     margin: 0 auto;
   }
 
-  .card p {
-    display: none;
-  }
+  
   #About p {
     font-size: 1.2em;
     width: 600px;
@@ -587,14 +585,17 @@ h4::before {
     width: 150px;
   }
 
+  .card{
+    margin: 0 auto;
+  }
   .grid-menu {
     display: grid;
+width: 100% !important;
     grid-template-columns: 1fr;
+    justify-content: center !important;
   }
 
-  .card {
-    height: 300px;
-  }
+
 }
 
 @media only screen and (max-width: 1460px) {
