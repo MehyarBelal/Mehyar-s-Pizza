@@ -35,6 +35,11 @@ footer {
   font-weight: 400 !important;
 }
 
+.pilled img {
+  width: 40px !important;
+  height: 100% !important;
+}
+
 .pilled {
   display: flex;
 
@@ -54,12 +59,6 @@ footer {
   margin-top: 0.3em !important;
   margin-left: 0.3em !important;
   vertical-align: middle !important;
-}
-
-.profile-pic {
-  border-radius: 50%;
-  width: 2rem !important;
-  height: 2rem !important;
 }
 
 footer p {
