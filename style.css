@@ -25,42 +25,44 @@ footer {
 .reviewed-by{
   display: flex;
   justify-content: center;
-  color:green;
+  color:#4caf50!important;
+  padding: .5em 1.5em;
 
+}
+.review{
+  margin:0 !important;
+  line-height: 2;
+  padding:0 !important;
 }
 
 .pilled{
 
   display: flex;
-  justify-content: center;
-  align-items: flex-end;
+ 
   background-color: #e0e0e0;
   color:#000;
-  font-size: 1rem !important;
-    font-weight: 400;
-width: 10rem;
-  vertical-align: middle;
-    white-space: nowrap;
-    line-height: 1;
-
-  height: 2rem;
-  padding-left: .75rem;
-  padding-right: .75rem;
-  text-align: center;
   border-radius: 20px;
-  padding:0 !important;
- margin: 0 !important;
-  
+  height: 3.5rem;
 
-  
+  padding: 0 !important;
+width: 8em;
+  margin: 0 !important;
+}
+
+.pilled p{
+  padding:0 !important;
+  margin:0 !important;
+  margin-top: .3em !important;
+  margin-left: 0.3em !important;
+  vertical-align: middle !important;
 }
 
 
 .profile-pic{
  
   border-radius: 50%;;
-  width: 60% !important;
-  height: 100% !important;
+width: 40px !important;
+height: 100% !important;
  
 }
 footer p {
