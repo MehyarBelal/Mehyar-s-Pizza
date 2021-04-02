@@ -22,6 +22,7 @@ footer {
   flex-direction: column;
 }
 
+<<<<<<< HEAD
 .reviewed-by {
   display: flex;
   justify-content: center;
@@ -61,6 +62,8 @@ footer {
   width: 40px !important;
   height: 100% !important;
 }
+=======
+>>>>>>> parent of 1aeb822 (w)
 footer p {
   text-align: center !important;
 }
