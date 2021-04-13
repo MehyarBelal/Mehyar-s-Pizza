@@ -183,6 +183,11 @@ p {
   font-weight: 900;
 }
 
+.curly{
+  font-family: "Parisienne", cursive;;
+  font-size: 1.5em;
+}
+
 .about-btn {
   background-color: #d72323;
   border-radius: 20px;
