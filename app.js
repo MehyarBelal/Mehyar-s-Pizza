@@ -66,6 +66,15 @@ gsap.from(".three", {
 });
 
 
+gsap.from(".centered", {
+  scrollTrigger: ".centered",
+  opacity: 0,
+  y: 50,
+  duration: .5,
+});
+
+
+
 $('.about-btn').click(function(){
 
 
