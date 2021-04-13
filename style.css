@@ -424,7 +424,9 @@ h4::before {
 
 #Ratings {
   background-color: #d72323;
-
+display:flex;
+justify-content: center;
+align-items: center;
   color: white;
   text-align: center;
 }
@@ -585,6 +587,9 @@ width: 100% !important;
 
 @media only screen and (max-width: 375px) {
 
+.rating-card{
+  margin-left: 0;
+}
   .copyright{
     display:none;
   }
