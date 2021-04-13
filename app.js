@@ -64,3 +64,12 @@ gsap.from(".three", {
   y: 50,
   duration: 0.5,
 });
+
+
+$('.about-btn').click(function(){
+
+
+  $('html,body').animate({
+    scrollTop: $("#About").offset().top},
+    'slow');
+})
