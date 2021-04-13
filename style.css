@@ -699,3 +699,11 @@ width: 100% !important;
   background-color: white;
 }
 
+
+button:focus{
+  outline: none;
+}
+
+button:hover{
+  opacity: .5;
+}
