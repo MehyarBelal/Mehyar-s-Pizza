@@ -470,6 +470,7 @@ align-items: center;
 {
 
   background-color: white;
+  display:none !important;
 }
 .sub-title{
   color: #D72323;
